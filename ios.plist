@@ -18,7 +18,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.viv77.demo</string>
+				<string>com.viv77.app</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
