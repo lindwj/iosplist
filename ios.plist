@@ -13,18 +13,33 @@
 					<key>url</key>
 					<string>http://app.viv77.com/appDownload/appPkg/20190819184354resigned.ipa</string>
 				</dict>
-				
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string></string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.viv77.app</string>
+				<string>com.klyyxy.kfteccd</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>viv77 App download</string>
+				<string>金沙会</string>
 			</dict>
 		</dict>
 	</array>
